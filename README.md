@@ -1,9 +1,9 @@
 # Banking System
-steps to run the program :-
+Steps to run the program :-
 
 1.Install Python on your system.
 
-2.create a folder.
+2.Create a folder.
 
 3.Create a file inside the folder and name it as  "BankingSystem.py".
 
@@ -11,6 +11,6 @@ steps to run the program :-
 
 5.Navigate to the folder created.
 
-6.open the terminal and type "python BankingSystem.py" to run the file.
+6.Open the terminal and type "python BankingSystem.py" to run the file.
 
 
